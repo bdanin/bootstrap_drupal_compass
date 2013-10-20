@@ -1,4 +1,4 @@
-name = Bootstrap Sub-theme
+name = subBootstrap, based 2.x branch for bootstrap_drupal_compass
 description = A Bootstrap Sub-theme.
 core = 7.x
 base theme = bootstrap
