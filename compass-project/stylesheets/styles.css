@@ -8295,3 +8295,21 @@ a.label:hover, a.label:focus, a.badge:hover, a.badge:focus {
     overflow: visible !important;
   }
 }
+/* line 2, ../sass/_admin.scss */
+body.admin-menu {
+  margin-top: 28px !important;
+}
+/* line 3, ../sass/_admin.scss */
+body.admin-menu .navbar-fixed-top {
+  top: 30px;
+}
+
+/* line 5, ../sass/_admin.scss */
+#admin-menu, #admin-menu .dropdown, #admin-menu .dropdown li ul {
+  z-index: 9999;
+}
+
+/* line 6, ../sass/_admin.scss */
+#admin-menu .dropdown li li.expandable ul {
+  margin-top: -29px;
+}
