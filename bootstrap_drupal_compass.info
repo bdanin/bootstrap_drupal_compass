@@ -14,25 +14,25 @@ regions[sidebar_second] = 'Secondary'
 regions[footer]         = 'Footer'
 
 ; Stylesheets
-stylesheets[all][] = css/style.css
+stylesheets[all][] = compass-project/stylesheets/style.css
 
 ;**********************************
 ; METHOD 1: Bootstrap Source Files
 ;**********************************
 ; 
 ; ; Scripts
-; scripts[] = 'bootstrap/js/bootstrap-affix.js'
-; scripts[] = 'bootstrap/js/bootstrap-alert.js'
-; scripts[] = 'bootstrap/js/bootstrap-button.js'
-; scripts[] = 'bootstrap/js/bootstrap-carousel.js'
-; scripts[] = 'bootstrap/js/bootstrap-collapse.js'
-; scripts[] = 'bootstrap/js/bootstrap-dropdown.js'
-; scripts[] = 'bootstrap/js/bootstrap-modal.js'
-; scripts[] = 'bootstrap/js/bootstrap-tooltip.js'
-; scripts[] = 'bootstrap/js/bootstrap-popover.js'
-; scripts[] = 'bootstrap/js/bootstrap-scrollspy.js'
-; scripts[] = 'bootstrap/js/bootstrap-transition.js'
-; scripts[] = 'bootstrap/js/bootstrap-typeahead.js'
+; scripts[] = 'compass-project/javascripts/bootstrap-affix.js'
+; scripts[] = 'compass-project/javascripts/bootstrap-alert.js'
+; scripts[] = 'compass-project/javascripts/bootstrap-button.js'
+; scripts[] = 'compass-project/javascripts/bootstrap-carousel.js'
+; scripts[] = 'compass-project/javascripts/bootstrap-collapse.js'
+; scripts[] = 'compass-project/javascripts/bootstrap-dropdown.js'
+; scripts[] = 'compass-project/javascripts/bootstrap-modal.js'
+; scripts[] = 'compass-project/javascripts/bootstrap-tooltip.js'
+; scripts[] = 'compass-project/javascripts/bootstrap-popover.js'
+; scripts[] = 'compass-project/javascripts/bootstrap-scrollspy.js'
+; scripts[] = 'compass-project/javascripts/bootstrap-transition.js'
+; scripts[] = 'compass-project/javascripts/bootstrap-typeahead.js'
 ; 
 ; ; Settings inherited by base theme, uncomment to override.
 ; ;settings[toggle_name] = 0
