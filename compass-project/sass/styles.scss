@@ -6,3 +6,12 @@
 
 // Include responsive Bootstrap styles
 @import "bootstrap-responsive";
+
+// Custom Styles
+
+
+// responsive overrides !keep at bottom
+@import "responsive1200px";
+@import "responsive980-1199";
+@import "responsive768-979";
+@import "responsive767";
