@@ -8323,3 +8323,8 @@ html.js fieldset.collapsed {
 input, textarea, .uneditable-input {
   width: 90%;
 }
+
+/* line 16, ../sass/styles.scss */
+.navbar-fixed-top {
+  position: static;
+}
