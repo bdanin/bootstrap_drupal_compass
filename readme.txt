@@ -3,4 +3,4 @@ Based on homas McDonald's https://github.com/thomas-mcdonald/bootstrap-sass/blob
 
 Info on standard subtheme: http://drupal.org/node/1978010
 
-Dependancies: https://drupal.org/project/bootstrap, bootstrap-sass
+Dependancies: https://drupal.org/project/bootstrap, bootstrap-sass, compass
