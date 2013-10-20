@@ -8318,3 +8318,8 @@ body.admin-menu .navbar-fixed-top {
 html.js fieldset.collapsed {
   height: auto;
 }
+
+/* line 15, ../sass/styles.scss */
+input, textarea, .uneditable-input {
+  width: 90%;
+}

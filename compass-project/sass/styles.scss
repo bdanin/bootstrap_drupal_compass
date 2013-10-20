@@ -12,7 +12,7 @@
 
 // Custom Styles
 html.js fieldset.collapsed { height:auto; }
-
+input, textarea, .uneditable-input { width:90%; }
 
 // responsive overrides !keep at bottom
 @import "responsive1200px";
