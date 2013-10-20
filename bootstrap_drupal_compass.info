@@ -14,7 +14,7 @@ regions[sidebar_second] = 'Secondary'
 regions[footer]         = 'Footer'
 
 ; Stylesheets
-stylesheets[all][] = compass-project/stylesheets/style.css
+stylesheets[all][] = compass-project/stylesheets/styles.css
 
 ;**********************************
 ; METHOD 1: Bootstrap Source Files
