@@ -8313,3 +8313,8 @@ body.admin-menu .navbar-fixed-top {
 #admin-menu .dropdown li li.expandable ul {
   margin-top: -29px;
 }
+
+/* line 14, ../sass/styles.scss */
+html.js fieldset.collapsed {
+  height: auto;
+}
