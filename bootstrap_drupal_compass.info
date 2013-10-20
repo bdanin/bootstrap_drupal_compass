@@ -21,24 +21,24 @@ stylesheets[all][] = compass-project/stylesheets/style.css
 ;**********************************
 ; 
 ; ; Scripts
-; scripts[] = 'compass-project/javascripts/bootstrap-affix.js'
-; scripts[] = 'compass-project/javascripts/bootstrap-alert.js'
-; scripts[] = 'compass-project/javascripts/bootstrap-button.js'
-; scripts[] = 'compass-project/javascripts/bootstrap-carousel.js'
-; scripts[] = 'compass-project/javascripts/bootstrap-collapse.js'
-; scripts[] = 'compass-project/javascripts/bootstrap-dropdown.js'
-; scripts[] = 'compass-project/javascripts/bootstrap-modal.js'
-; scripts[] = 'compass-project/javascripts/bootstrap-tooltip.js'
-; scripts[] = 'compass-project/javascripts/bootstrap-popover.js'
-; scripts[] = 'compass-project/javascripts/bootstrap-scrollspy.js'
-; scripts[] = 'compass-project/javascripts/bootstrap-transition.js'
-; scripts[] = 'compass-project/javascripts/bootstrap-typeahead.js'
+scripts[] = 'compass-project/javascripts/bootstrap-affix.js'
+scripts[] = 'compass-project/javascripts/bootstrap-alert.js'
+scripts[] = 'compass-project/javascripts/bootstrap-button.js'
+scripts[] = 'compass-project/javascripts/bootstrap-carousel.js'
+scripts[] = 'compass-project/javascripts/bootstrap-collapse.js'
+scripts[] = 'compass-project/javascripts/bootstrap-dropdown.js'
+scripts[] = 'compass-project/javascripts/bootstrap-modal.js'
+scripts[] = 'compass-project/javascripts/bootstrap-tooltip.js'
+scripts[] = 'compass-project/javascripts/bootstrap-popover.js'
+scripts[] = 'compass-project/javascripts/bootstrap-scrollspy.js'
+scripts[] = 'compass-project/javascripts/bootstrap-transition.js'
+scripts[] = 'compass-project/javascripts/bootstrap-typeahead.js'
 ; 
 ; ; Settings inherited by base theme, uncomment to override.
 ; ;settings[toggle_name] = 0
 ; ;settings[toggle_search] = 1
 ; ; Disable the CDN as we are using our own source files.
-; settings[cdn_bootstrap] = 0
+settings[cdn_bootstrap] = 0
 
 
 ;*************************
