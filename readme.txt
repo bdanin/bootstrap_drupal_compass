@@ -1,5 +1,5 @@
 Compass-based Bootstrap Site setup for Drupal 7
-Based on homas McDonald's https://github.com/thomas-mcdonald/bootstrap-sass/blob/3/docs/COMPASS.md
+Based on Thomas McDonald's https://github.com/thomas-mcdonald/bootstrap-sass/blob/3/docs/COMPASS.md
 
 Info on standard subtheme: http://drupal.org/node/1978010
 
